@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  php-tesseract-ocr:
+    image: php-tesseract-ocr:latest
+    container_name: php-tesseract-ocr
+    volumes:
+      - ./:/var/www
+    command: sleep 7200
