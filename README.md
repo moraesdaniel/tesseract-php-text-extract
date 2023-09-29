@@ -40,3 +40,4 @@ Com o resultado da leitura em mãos, podemos realizar várias tarefas, procurar 
 [Tesseract OCR for PHP](https://github.com/thiagoalessio/tesseract-ocr-for-php)  
 [Tesseract OCR installation](https://tesseract-ocr.github.io/tessdoc/Installation.html)  
 [Como instalo um novo pacote de idiomas para o Tesseract](https://sobrelinux.info/questions/13937/how-do-i-install-a-new-language-pack-for-tesseract-on-16-04)  
+[Page Segmentation Method](https://github.com/tesseract-ocr/tessdoc/blob/main/ImproveQuality.md#page-segmentation-method)
